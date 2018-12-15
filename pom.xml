@@ -9,11 +9,11 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cchat</groupId>
-	<artifactId>CCHAT_SCHEDULER</artifactId>
+	<groupId>com.nlu</groupId>
+	<artifactId>NluTrainer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>CCHAT_SCHEDULER</name>
+	<name>NluTrainer</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
